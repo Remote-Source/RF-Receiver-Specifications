@@ -97,8 +97,6 @@ Suggested GitHub **Topics** (add these separately in the repository's **About �
 
 `rf-receiver` · `rf-remote` · `433mhz` · `315mhz` · `wireless-receiver` · `remote-control` · `relay-controller` · `radio-frequency` · `wireless-automation` · `access-control` · `oem` · `iot` · `hardware-documentation` · `lorawan`
 
-*Keep `lorawan` only if this repository contains or links to actual LoRa/LoRaWAN documentation.*
-
 ## Remote Source custom RF solutions
 
 > **Need a compatible RF receiver, replacement remote, or custom OEM wireless control solution?**
